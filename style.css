@@ -1,0 +1,49 @@
+
+#external {color: yellow;
+		
+		}
+
+*	{
+	font-family: "verdana";
+	font-size: 20px;
+}
+
+
+
+h1 {font-size: 3rem;	
+}
+
+#intro	 { text-transform: uppercase;
+  }
+
+
+
+.ol1 {
+	background-color: #aed19d
+}
+
+.ol2 li{
+	border-width: 2px;
+	border-style: solid;
+	border-color: rgb(157, 176, 209);
+	
+}
+
+
+.ol2 li img{border-style: solid;
+		border-color: blue;
+
+}
+
+ img {
+	border-radius: 150px;
+	height: 150px;
+	width: 150px;
+
+}
+
+h4 ~ ul {letter-spacing: 10px;
+		list-style: none;
+			}
+
+h4 ~ p {text-align: center;}
